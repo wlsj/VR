@@ -1,0 +1,1 @@
+include ':app', ':wlsvr', ':wlsAudio', ':wlsBaseVr', ':wslCommon', ':wlsCommonwidget', ':wlsController', ':wlsVideowidget', ':wlsPanowidget', ':wlsPanowidgetv'

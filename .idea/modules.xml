@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VR.iml" filepath="$PROJECT_DIR$/VR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlsAudio/wlsAudio.iml" filepath="$PROJECT_DIR$/wlsAudio/wlsAudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlsBaseVr/wlsBaseVr.iml" filepath="$PROJECT_DIR$/wlsBaseVr/wlsBaseVr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlsCommonwidget/wlsCommonwidget.iml" filepath="$PROJECT_DIR$/wlsCommonwidget/wlsCommonwidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlsController/wlsController.iml" filepath="$PROJECT_DIR$/wlsController/wlsController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlsPanowidget/wlsPanowidget.iml" filepath="$PROJECT_DIR$/wlsPanowidget/wlsPanowidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlsPanowidgetv/wlsPanowidgetv.iml" filepath="$PROJECT_DIR$/wlsPanowidgetv/wlsPanowidgetv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlsVideowidget/wlsVideowidget.iml" filepath="$PROJECT_DIR$/wlsVideowidget/wlsVideowidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wlsvr/wlsvr.iml" filepath="$PROJECT_DIR$/wlsvr/wlsvr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wslCommon/wslCommon.iml" filepath="$PROJECT_DIR$/wslCommon/wslCommon.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\AS\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/wlsAudio" />
+            <option value="$PROJECT_DIR$/wlsBaseVr" />
+            <option value="$PROJECT_DIR$/wlsCommonwidget" />
+            <option value="$PROJECT_DIR$/wlsController" />
+            <option value="$PROJECT_DIR$/wlsPanowidget" />
+            <option value="$PROJECT_DIR$/wlsPanowidgetv" />
+            <option value="$PROJECT_DIR$/wlsVideowidget" />
+            <option value="$PROJECT_DIR$/wlsvr" />
+            <option value="$PROJECT_DIR$/wslCommon" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
